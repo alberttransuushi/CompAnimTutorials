@@ -672,7 +672,7 @@ MonoBehaviour:
   waypoints:
   - {fileID: 319356940}
   - {fileID: 1255325548}
-  moveSpeed: 3
+  moveSpeed: 5
   rotationSpeed: 3
   stopDistance: 0.1
 --- !u!4 &762753486 stripped
@@ -1286,7 +1286,7 @@ MonoBehaviour:
   waypoints:
   - {fileID: 827052872}
   - {fileID: 764379254}
-  moveSpeed: 3
+  moveSpeed: 5
   rotationSpeed: 3
   stopDistance: 0.1
 --- !u!4 &1436956637 stripped
