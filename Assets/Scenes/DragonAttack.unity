@@ -590,7 +590,7 @@ OffMeshLink:
   m_GameObject: {fileID: 491684385}
   m_Enabled: 1
   serializedVersion: 3
-  m_AreaIndex: 2
+  m_AreaIndex: 0
   m_AgentTypeID: 0
   m_Start: {fileID: 491684386}
   m_End: {fileID: 1083489218}
